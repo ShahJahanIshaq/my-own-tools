@@ -1,0 +1,1 @@
+# my-own-wc command
